@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brojin-Marcus.github.io/sitemap.xml
+Sitemap: https://brojin-Marcus.github.io/al-folio/sitemap.xml
